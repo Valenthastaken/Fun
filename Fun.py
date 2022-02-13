@@ -23,7 +23,7 @@ if password == "Orion":
 else :
     print(R+"Antum Salah Memasukkan Password, Nunggunya Lama Loh")
     time.sleep(100000)
-orgip =nama
+name =nama
 
 def print_Slow(str):
     for letter in str:
@@ -58,7 +58,7 @@ print_SlowType(H+"Welcome, Are You Ready?")
 time.sleep(3)
 os.system('clear')
 
-print_SlowType(C+"\n%s "%(orgip))
+print_SlowType(C+"\n%s "%(name))
 print_SlowType(fun +" %s"%(dia))           
 
 time.sleep(8)
