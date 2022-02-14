@@ -10,7 +10,7 @@ cd Fun
 python2 Fun.py (Nama) (Nama) Orion
 
 
-enjoy:")
+Feel Free To Reedit:) I Don't Mind
 
 
 Discord :
