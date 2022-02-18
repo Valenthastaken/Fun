@@ -5,7 +5,7 @@ import os, sys, time, random
 #Color
 K = '\033[93m' #Yellow
 U = '\033[95m' #Purple
-C = '\033[94m' #biru tua
+C = '\033[94m' #Dark blue
 R = '\033[91m' #Red
 H = '\033[92m' #Green
 
