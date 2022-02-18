@@ -7,7 +7,7 @@ git clone https://github.com/OrionXV3/Fun
 
 cd Fun
 
-python2 Fun.py (Nama) (Nama) Orion
+python2 Fun.py (Nama) (Nama) 
 
 
 Feel Free To Reedit:) I Don't Mind
