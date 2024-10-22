@@ -11,8 +11,3 @@ python2 Fun.py (Nama) (Nama)
 
 
 Feel Free To Reedit:) I Don't Mind
-
-
-Discord :
-
-https://dsc.gg/plokysupport
