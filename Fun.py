@@ -32,7 +32,6 @@ def print_SlowType(str):
 os.system('clear')
 print (R+"                      Loading                 \n")
 time.sleep(2)
-z = input(H+"Press enter to start")
 os.system('clear')
 time.sleep(2)
 #Main course
