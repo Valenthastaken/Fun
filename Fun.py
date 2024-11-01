@@ -32,11 +32,9 @@ def print_SlowType(str):
 os.system('clear')
 print (R+"                      Loading                 \n")
 time.sleep(2)
- z = input(H + "Press enter to start")
-    os.system('cls' if os.name == 'nt' else 'clear')
-    time.sleep(2)
-except Exception as e:
-    print("An error occurred:", e)
+z = input(H+"Press enter to start")
+os.system('clear')
+time.sleep(2)
 #Main course
 print_SlowType(C+"%s "%(name))
 print_SlowType(fun +" %s"%(dia))           
